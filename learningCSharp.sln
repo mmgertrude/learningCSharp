@@ -5,29 +5,33 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ONE INTRODUCTION", "ONE INTRODUCTION.csproj", "{75602FD7-C1E0-43CE-BFE1-93AFB93C811E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWO DATATYPES", "..\DATATYPES\TWO DATATYPES.csproj", "{FCBE3EA1-A124-4DA6-8C95-F7461B75CEC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TWO DATATYPES", "..\DATATYPES\TWO DATATYPES.csproj", "{FCBE3EA1-A124-4DA6-8C95-F7461B75CEC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THREE VARIABLES AND OPERATORS", "..\THREE VARIABLES\THREE VARIABLES AND OPERATORS.csproj", "{3E0D1E66-A41E-4707-8F38-0AE410100B7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "THREE VARIABLES AND OPERATORS", "..\THREE VARIABLES\THREE VARIABLES AND OPERATORS.csproj", "{3E0D1E66-A41E-4707-8F38-0AE410100B7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOUR Flow Control and conditional statements", "..\FOUR Flow Control and conditional statements\FOUR Flow Control and conditional statements.csproj", "{44A1CD0E-3609-43BA-B2DF-27A86446E0C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FOUR Flow Control and conditional statements", "..\FOUR Flow Control and conditional statements\FOUR Flow Control and conditional statements.csproj", "{44A1CD0E-3609-43BA-B2DF-27A86446E0C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIVE Arrays", "..\FIVE Arrays\FIVE Arrays.csproj", "{D0F8DC8A-74E0-4855-AF20-33FAE3E65A38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FIVE Arrays", "..\FIVE Arrays\FIVE Arrays.csproj", "{D0F8DC8A-74E0-4855-AF20-33FAE3E65A38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIX Classes and Objects", "..\SIX Classes and Objects\SIX Classes and Objects.csproj", "{2A5004DA-5282-4B4F-877A-D8467379EBD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SIX Classes and Objects", "..\SIX Classes and Objects\SIX Classes and Objects.csproj", "{2A5004DA-5282-4B4F-877A-D8467379EBD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEVEN Acces modifiers", "..\SEVEN Acces modifiers\SEVEN Acces modifiers.csproj", "{11197462-4D36-41B8-97E9-6236AE86D620}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEVEN Acces modifiers", "..\SEVEN Acces modifiers\SEVEN Acces modifiers.csproj", "{11197462-4D36-41B8-97E9-6236AE86D620}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIGHT Constructors", "..\EIGHT Constructors\EIGHT Constructors.csproj", "{00AC5B2E-B3C0-4941-8843-617751550B32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EIGHT Constructors", "..\EIGHT Constructors\EIGHT Constructors.csproj", "{00AC5B2E-B3C0-4941-8843-617751550B32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NINE Inhertiance", "..\NINE Inhertiance and Polymorphism\NINE Inhertiance.csproj", "{39E89C4B-5AA7-4F83-AD24-989A13108550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NINE Inhertiance", "..\NINE Inhertiance and Polymorphism\NINE Inhertiance.csproj", "{39E89C4B-5AA7-4F83-AD24-989A13108550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEN Polymorphism", "..\TEN Polymorphism\TEN Polymorphism.csproj", "{79A7C9C7-7E08-4C4D-AED5-C600DC8BD0A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEN Polymorphism", "..\TEN Polymorphism\TEN Polymorphism.csproj", "{79A7C9C7-7E08-4C4D-AED5-C600DC8BD0A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELLEVEN Abstract Classes", "..\ELLEVEN Abstract Classes\ELLEVEN Abstract Classes.csproj", "{C7B6689E-19B8-4E57-8227-75C68634FB58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ELLEVEN Abstract Classes", "..\ELLEVEN Abstract Classes\ELLEVEN Abstract Classes.csproj", "{C7B6689E-19B8-4E57-8227-75C68634FB58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TWELVE Interface Class", "..\TWELVE Interface Class\TWELVE Interface Class.csproj", "{EA8E355E-652C-4A6D-A71F-2D1CE6D2B80A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TWELVE Interface Class", "..\TWELVE Interface Class\TWELVE Interface Class.csproj", "{EA8E355E-652C-4A6D-A71F-2D1CE6D2B80A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THIRTEEN Collections", "..\THIRTEEN Collections\THIRTEEN Collections.csproj", "{11692E82-352B-47CA-963F-2FDD225B057C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "THIRTEEN Collections", "..\THIRTEEN Collections\THIRTEEN Collections.csproj", "{11692E82-352B-47CA-963F-2FDD225B057C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FOURTEEN File operations", "..\FOURTEEN File operations\FOURTEEN File operations.csproj", "{9A44CD62-9F92-412B-A15A-1D5FB2C3BDF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIFTEEN Serialising and Deserialising", "..\FIFTEEN Serialising and Deserialising\FIFTEEN Serialising and Deserialising.csproj", "{AC57DA7B-A1DD-492C-B554-9B5F11CF0033}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{11692E82-352B-47CA-963F-2FDD225B057C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11692E82-352B-47CA-963F-2FDD225B057C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11692E82-352B-47CA-963F-2FDD225B057C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A44CD62-9F92-412B-A15A-1D5FB2C3BDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A44CD62-9F92-412B-A15A-1D5FB2C3BDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A44CD62-9F92-412B-A15A-1D5FB2C3BDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A44CD62-9F92-412B-A15A-1D5FB2C3BDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC57DA7B-A1DD-492C-B554-9B5F11CF0033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC57DA7B-A1DD-492C-B554-9B5F11CF0033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC57DA7B-A1DD-492C-B554-9B5F11CF0033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC57DA7B-A1DD-492C-B554-9B5F11CF0033}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
